@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Example to-do List Application
 
 This repository is a simple to-do list manager that runs on Node.js.
@@ -59,3 +60,6 @@ If you look at the Docker Desktop GUI, you can see the containers and dive deepe
 
 The to-do list app will be running at [http://localhost:3000](http://localhost:3000).
 
+=======
+# exam
+>>>>>>> de8eada6763a3d2168cd813922798483744f42f2
