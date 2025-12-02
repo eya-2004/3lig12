@@ -5,7 +5,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/eya-2004/3lig12.git'
+                git url: 'https://github.com/wiem-kb/exam.git'
             }
         }
 
